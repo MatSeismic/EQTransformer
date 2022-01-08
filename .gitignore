@@ -1,0 +1,10 @@
+/downloads_mseeds
+/downloads_mseeds_processed_hdf5
+/downloads_mseedsxml
+/json
+/preproc
+/detections
+/local*.ipynb
+/.ipynb_checkpoints
+/EQTransformer.egg-info
+/*/__pycache__
